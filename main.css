@@ -1,0 +1,38 @@
+body{
+  text-align: center;
+}
+/*comentarios*/
+.cuadrado-color{
+  /*color en inglés*/
+  /*color hexadecimal ej : #C70606 y con color RGB()*/
+  background-color: black;
+  padding-bottom: 10px;
+  margin-top: -40px;
+}
+h1{
+  color: white;
+  font-family: amatic sc;
+  font-size: 60px;
+  padding-top: 20px;
+}
+h2{
+  color: white;
+  font-family: amatic sc;
+  font-size: 30px;
+}
+.informacion{}
+h3{
+    font-family: caveat;
+    font-size: 25px;
+}
+p{
+  font-family: lustria;
+}
+.foto-grupo{
+  width: 600px;
+  height: 400px;
+}
+.enlaces{
+  font-family: lustria;
+  border-top: 8px dotted black;
+}
